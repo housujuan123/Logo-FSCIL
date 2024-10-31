@@ -1,0 +1,200 @@
+n77770000 Perdue
+n77770001 Asahi
+n77770002 Appleton Estate
+n77770003 Horlicks
+n77770004 Heinz Baked Beans
+n77770005 Baja Fresh
+n77770006 Lay's-1
+n77770007 waffle crisp
+n77770008 Burger King
+n77770009 yili
+n77770010 Harvest Crunch
+n77770011 mccafe
+n77770012 evian
+n77770013 peptamen
+n77770014 Newman's Own
+n77770015 Gregg's
+n77770016 second cup
+n77770017 jack in the box
+n77770018 Chocapic
+n77770019 winiary
+n77770020 Maestro Dobel
+n77770021 Chocolate Lucky Charms
+n77770022 molson brador
+n77770023 Brothers Cider
+n77770024 Boca Burger
+n77770025 sweetened wheat-fuls
+n77770026 Highland Spring
+n77770027 Hard Rock Cafe
+n77770028 Cascadian Farm
+n77770029 Maruchan-2
+n77770030 Cibo Espresso
+n77770031 Cafe du Monde
+n77770032 Michel et Augustin
+n77770033 Beer Nuts
+n77770034 Cocoa Puffs
+n77770035 Mecca Cola
+n77770036 Bush's Best
+n77770037 Carling Black Label
+n77770038 vladivar
+n77770039 Straus
+n77770040 Four Seas Ice Cream
+n77770041 McDonald's
+n77770042 stadium mustard
+n77770043 Mondelez International
+n77770044 Baxters
+n77770045 xifeng
+n77770046 Bahlsen
+n77770047 robust
+n77770048 Celestial Seasonings
+n77770049 Britannia
+n77770050 chicago town
+n77770051 Hortex
+n77770052 BreadTalk
+n77770053 nesvita
+n77770054 CHIVAS
+n77770055 Alter Eco
+n77770056 Darden-1
+n77770057 Brigham's Ice Cream
+n77770058 Maker's Mark
+n77770059 Hormel
+n77770060 Eegee's
+n77770061 Hollys Coffee
+n77770062 copella
+n77770063 strawberry rice krispies
+n77770064 Frosty Boy-1
+n77770065 lan-choo
+n77770066 Gobstoppers
+n77770067 Burgerville
+n77770068 Bellywashers
+n77770069 Mengzhilan
+n77770070 Mike's
+n77770071 Bon Pari
+n77770072 FruChocs
+n77770073 Cocoa Pebbles
+n77770074 Bicerin
+n77770075 Tyrrells
+n77770076 tully's coffee
+n77770077 Aqua Carpatica
+n77770078 Fox's Pizza Den
+n77770079 Honey Bunches of Oats
+n77770080 Divine
+n77770081 Cracker
+n77770082 sveltesse
+n77770083 Kwality Wall's
+n77770084 laura secord chocolates
+n77770085 Efes
+n77770086 Canada Dry
+n77770087 ready brek
+n77770088 Buondi
+n77770089 nutren
+n77770090 La Choy
+n77770091 Fruco
+n77770092 Heinz Tomato Ketchup
+n77770093 Ketel One
+n77770094 romano's macaroni grill
+n77770095 ricoffy
+n77770096 Ciego Montero
+n77770097 Irn Bru Bar
+n77770098 Cestbon-1
+n77770099 Cafe HAG
+n77770100 Meiji
+n77770101 Kotipizza
+n77770102 Cherry 7Up
+n77770103 Badia
+n77770104 Johnny Rockets
+n77770105 Huy Fong Foods-1
+n77770106 Balaji Wafers
+n77770107 Apple Zings
+n77770108 Bewley's
+n77770109 Carling
+n77770110 Bigg Mixx
+n77770111 Coco Pops
+n77770112 APEROL
+n77770113 Jelly Belly
+n77770114 Calbee
+n77770115 Cielo
+n77770116 Bridgehead Coffee
+n77770117 lion cereal
+n77770118 Chipsmore
+n77770119 Grapette
+n77770120 toblerone
+n77770121 Bartolo Nardini
+n77770122 smirnoff
+n77770123 Burger Street
+n77770124 wuyutai
+n77770125 rosati's
+n77770126 Cha Dao
+n77770127 Fox's Biscuits
+n77770128 chex mix
+n77770129 Poulain
+n77770130 Laciate
+n77770131 Danone
+n77770132 Dalda
+n77770133 ledo pizza
+n77770134 Maggi Masala noodles
+n77770135 CDO Foodsphere
+n77770136 Highland Toffee
+n77770137 Goya
+n77770138 Idaho SPUD
+n77770139 screaming yellow zonkers
+n77770140 maggi noodles
+n77770141 Gay Lea
+n77770142 Cocosette
+n77770143 Bisquick
+n77770144 ching's secret
+n77770145 Frosty Jack Cider
+n77770146 NISSIN
+n77770147 Monsanto
+n77770148 Chocomel
+n77770149 Haldiram's
+n77770150 Graeter's
+n77770151 nestle
+n77770152 tooty footies
+n77770153 oberweis dairy-1
+n77770154 Hershey's Cookies 'n' Creme
+n77770155 timothy's world coffee
+n77770156 williams fresh cafe
+n77770157 Coco Roos
+n77770158 COFCO
+n77770159 DEVONDALE
+n77770160 Gordon Food Service
+n77770161 Cape Cod Potato Chips
+n77770162 Bruegger's
+n77770163 nestle corn flakes
+n77770164 Carapelli
+n77770165 Greene King
+n77770166 Lady's Choice
+n77770167 Freihofers
+n77770168 la saltena
+n77770169 Frosted Shredded Wheat
+n77770170 Brugal
+n77770171 Chips Ahoy!
+n77770172 Iams
+n77770173 Fujiya
+n77770174 Buca di Beppo
+n77770175 Qianhe
+n77770176 Creemore
+n77770177 obaras
+n77770178 st arnou
+n77770179 Hot Pockets
+n77770180 Laffy Taffy
+n77770181 pisco porton
+n77770182 Chronic Tacos-1
+n77770183 Haribo
+n77770184 Frosted Mini Spooners
+n77770185 Juicy Fruit
+n77770186 Beaulieu
+n77770187 Maltesers
+n77770188 Polar
+n77770189 Eden Cheese
+n77770190 Boon Rawd Brewery-1
+n77770191 Magners lrish
+n77770192 Jollibee
+n77770193 Chef Boyardee
+n77770194 robeks
+n77770195 Kern's
+n77770196 Coors
+n77770197 steve's ice cream
+n77770198 Capri Sun
+n77770199 Bega

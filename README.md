@@ -14,17 +14,13 @@ There are four parts in the code.
 
 *ft4base: The codes of fintuning CLIP for three datasets. 
 ## Get Started
-*Train foodlogo200:
-```bash
-python train.py -project FAM_food -dataset foodlogo -base_mode 'ft_cos' -new_mode 'avg_cos' -gamma 0.25 -lr_base 0.005 -lr_new 0.1 -decay 0.0005 -epochs_base 200 -schedule Milestone -milestones 50 100 150 -gpu '0,1' -temperature 16 -dataroot YOURDATAROOT -batch_size_base 64 -balance 0.01 -loss_iter 0
+*Please execute the finetuning file in ft4base according to the dataset.
+*Train FAM
+```bash python train.py -project FAM_food -dataset foodlogo -base_mode 'ft_cos' -new_mode 'avg_cos' -gamma 0.25 -lr_base 0.005 -lr_new 0.1 -decay 0.0005 -epochs_base 200 -schedule Milestone -milestones 50 100 150 -gpu '0,1' -temperature 16 -dataroot YOURDATAROOT -batch_size_base 64 -balance 0.01 -loss_iter 0
 
-*Train miniLogo230:
-```bash
-python train.py -project FAM_mini2k -dataset mini2k -base_mode 'ft_cos' -new_mode 'avg_cos' -gamma 0.25 -lr_base 0.005 -lr_new 0.1 -decay 0.0005 -epochs_base 180 -schedule Milestone -milestones 50 100 150 -gpu '0,1' -temperature 16 -dataroot YOURDATAROOT -batch_size_base 64 -balance 0.01 -loss_iter 0
+```bash python train.py -project FAM_mini2k -dataset mini2k -base_mode 'ft_cos' -new_mode 'avg_cos' -gamma 0.25 -lr_base 0.005 -lr_new 0.1 -decay 0.0005 -epochs_base 180 -schedule Milestone -milestones 50 100 150 -gpu '0,1' -temperature 16 -dataroot YOURDATAROOT -batch_size_base 64 -balance 0.01 -loss_iter 0
 
-*Train foodlogo200:
-```bash
-python train.py -project FAM_inc32 -dataset inc32 -base_mode "ft_cos" -new_mode "avg_cos" -gamma 0.1 -lr_base 0.01 -lr_new 0.1 -decay 0.0005 -epochs_base 150 -schedule Cosine -gpu 0,1 -temperature 16 -batch_size_base 128 -balance 0.001 -loss_iter 0 -alpha 0.5
+```bash python train.py -project FAM_inc32 -dataset inc32 -base_mode "ft_cos" -new_mode "avg_cos" -gamma 0.1 -lr_base 0.01 -lr_new 0.1 -decay 0.0005 -epochs_base 150 -schedule Cosine -gpu 0,1 -temperature 16 -batch_size_base 128 -balance 0.001 -loss_iter 0 -alpha 0.5
 
 
 

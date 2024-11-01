@@ -4,14 +4,10 @@ Logo classification has gained increasing attention for its various applications
 We provide the source code on three logo datasets, i.e., foodLogo200, miniLogo2k and LogoInc32. Please follow the guidelines in CEC to prepare them.
 Datasets resource are available: https://pan.baidu.com/s/1bR4vO2yfutwWXc1Povap5A?pwd=k648
 ## Code Structures
-There are four parts in the code.
-
-*models: It contains the backbone network and training protocols for the experiment. 
-
-*data: Images and splits for the data sets.
-
-*dataloader: Dataloader of different datasets.
-
+There are four parts in the code.<br>
+*models: It contains the backbone network and training protocols for the experiment. <br>
+*data: Images and splits for the data sets.<br>
+*dataloader: Dataloader of different datasets.<br>
 *ft4base: The codes of fintuning CLIP for three datasets. 
 ## Get Started
 *Please execute the finetuning file in ft4base according to the dataset.
